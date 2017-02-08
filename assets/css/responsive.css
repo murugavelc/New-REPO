@@ -1,0 +1,160 @@
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+
+.top-bg::after {
+  right: 0;
+  background: inherit;
+}
+
+.top-contact ul::after {
+  border-left: 0;
+  border-top: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 0;
+}
+
+.top-contact .sing-det::before {
+  border-left: 0;
+  border-top: 0;
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 0;
+}
+
+.logo{
+	text-align: center;
+}
+.navbar-header {
+  width: 100%;
+  background: #194d8b none repeat scroll 0 0;
+}
+
+.navbar-toggle span {
+  background: #fff;
+}
+
+.navbar-collapse {
+  background: #194d8b;
+  padding: 0px 29px;
+  width: 100%;
+}
+
+.header-logo {
+  display: inline-block;
+}
+
+.navbar-header {
+  display: inline-block;
+  float: right;
+}
+
+
+.top-contact {
+  float: inherit;
+  margin-bottom: 0;
+}
+
+.top-contact ul {
+  width: 100%;
+  padding: 0px 10px;
+}
+
+.top-contact ul li {
+  width: 100%;
+}
+
+
+.nav.navbar-nav > li {
+  color: #fff;
+  font-size: 14px;
+}
+
+footer {
+  text-align: center;
+}
+
+.social {
+  float: inherit;
+  margin: 15px 0 0;
+  width: 100%;
+}
+
+.forgot-pass {
+  float: left;
+}
+
+.navbar-collapse a {
+  color: #fff;
+  font-size: 15px;
+  font-weight: normal;
+  padding: 0;
+}
+
+.navbar-collapse a:hover, .navbar-collapse a.active {
+  background: rgba(0, 0, 0, 0) url("../images/active-meni-icon.png") no-repeat scroll right bottom;
+  color: #43925a;
+  padding: 0;
+  margin-bottom: 23px;
+}
+
+.stat-bidding-btn {
+  float: left;
+}
+
+.bid-listing-bg .row{
+	margin-left: 0;
+    margin-right: 0;
+}
+
+.bid-listing-bg img{
+	width: 100%;
+}
+
+.lising-head {
+  margin: 0;
+}
+
+.viewetails .row, {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.view-bid-det-list .head{
+	text-align: left;
+}
+
+.placebid.mart-35 > input {
+  width: 100%;
+}
+
+.placebid a {
+  float: left;
+  width: 100%;
+}
+
+#thumbnail-slider{
+	display: none !important;
+}
+
+.viewetails .slider-dev{
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.border-rw, .last-up, .placebid {
+  border-right: 1px solid #fff;
+  margin: 15px !important;
+}
+
+.amazingslider-wrapper-1{
+  width: 100% !important;
+}
+
+
+}

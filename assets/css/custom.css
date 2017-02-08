@@ -1,0 +1,58 @@
+/* -------------------------
+    PRODUCT IMAGE UPLOAD
+---------------------------- */
+.imageSingleBox{
+    margin-bottom:5px;
+    /*border:1px solid #ccc;*/
+    padding: 3px;
+}
+ul#example.adTimer li span {
+    background: #26a69a none repeat scroll 0 0;
+    border: 1px solid #26a69a;
+    color: #fff;
+    display: inline-block;
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 25px;
+    padding: 14px 10px;#26a69a
+    text-align: center;
+    width: 60px;
+    border-radius: 5px;
+}
+ul#example.adTimer li.seperator{
+    line-height: 50px !important;
+}
+
+.table.vehicle th {
+    font-weight: 600;
+    padding: 12px 10px;
+}
+
+.vehicle-heading {
+    font-weight: 500;
+    color: #333;
+    background: #f8f8f8 ;
+    margin: 0;
+    padding: 8px;
+}
+.table.insurance th {
+    font-weight: 600;
+    padding: 12px 10px;
+}
+.insurance_heading {
+    font-weight: 500;
+    color: #333;
+    background: #f8f8f8 ;
+    margin: 0;
+    padding: 8px;
+}
+
+.table.vehicle > thead > tr > th, .table.vehicle > tbody > tr > th, .table.vehicle > tfoot > tr > th, .table.vehicle > thead > tr > td, .table.vehicle > tbody > tr > td, .table.vehicle > tfoot > tr > td{
+    border-top:1px solid #f3f3f3;
+}
+
+.table.insurance > thead > tr > th, .table.insurance > tbody > tr > th, .table.insurance > tfoot > tr > th, .table.insurance > thead > tr > td, .table.insurance > tbody > tr > td, .table.insurance > tfoot > tr > td{
+    border-top:1px solid #f3f3f3;
+}
+
+.product-img{ border: 2px solid #fff;}

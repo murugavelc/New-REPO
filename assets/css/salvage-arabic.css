@@ -1,0 +1,151 @@
+.login-bg {
+  text-align: right;
+}
+
+.forgot-pass {
+  float: left;
+}
+
+.frontend label::before {
+  margin-left: 5px;
+}
+
+.top-contact ul li:last-child {
+  background: #194d8b  none repeat scroll 0 0;
+  color: #fff;
+}
+
+.top-contact li.lest::before {
+  right: 75px;
+}
+
+
+.top-contact li.first {
+  background: #43925a none repeat scroll 0 0 !important;
+  margin-right: 0px;
+}
+
+.top-contact li.first-icon {
+  background: #43925a none repeat scroll 0 0 !important;
+  margin-right: 0px;
+}
+
+.top-contact li.first a{
+  color: #fff;
+}
+
+.top-contact ul li {
+  margin-right: 0;
+}
+
+.social li:last-child {
+  margin-right: 15px;
+}
+
+.search-icon {
+  background: rgba(0, 0, 0, 0) url("../images/search-car-icon.png") no-repeat scroll left center;
+  left: 5px;
+  right: inherit;
+}
+
+
+.lising-head {
+  margin: 0px;
+}
+
+.fual-type ul li {
+  display: inline-block;
+  margin-right: 0;
+}
+
+.language a {
+  color: #fff;
+  font-size: 13px;
+  margin-left: 12px;
+}
+
+.language a:hover, .language a:focus {
+  color: #43925a !important;
+  }
+
+.language .btn-group.open .dropdown-toggle, .language .dropdown-toggle:hover {
+  box-shadow: inherit;
+  color: #43925a !important;
+}
+
+.language a i {
+  color: #fff;
+  font-size: 13px !important;
+  top: -1px !important;
+}
+
+.language .dropdown-menu {
+  left: -89px;
+  top: 23px;
+}
+
+.start-bid{
+  margin-right: 15px;
+}
+
+.bid-listing-bg h3 {
+  font-size: 18px;
+}
+
+.bid-listing-bg .date {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.bid-listing-bg h6 {
+  color: #000;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+#accountinfo, #changepassword {
+  text-align: right;
+}
+
+
+.bid-listing-bg h6 {
+  font-size: 22px;
+}
+
+
+.bid-listing-bg .date {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.tab-content .title,  .myaccount .title{
+  text-align: right;
+}
+
+.form-control {
+  text-align: left;
+}
+
+.search-pannel input, .search-pannel input[type="text"]:focus {
+  padding: 0 15px 0 55px;
+}
+
+.placebid .site-btn {
+  padding: 7px 27px;
+}
+
+.styled-select select{
+  text-align: left;
+}
+
+.amazingslider-wrapper-1{
+  width: 81% !important;
+  float: left;
+  height: 380px !important;
+}
+
+.amazingslider-slider-1 img {
+height: 380px !important;
+margin: 0 !important;
+}
