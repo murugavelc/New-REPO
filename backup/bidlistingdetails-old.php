@@ -32,11 +32,7 @@ $this->load->view('header');
         </div>
     </div>
     <!-- /Search  panel -->
-
-
-
-
-    <div class="container">
+<div class="container">
         <div class="row">
             <div class="viewetails">
 
@@ -96,8 +92,6 @@ $this->load->view('header');
     </div>*/?>
 
      </div> 
-
-
 
 <div class="clear"></div>
 
